@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Giwan's Blog
-description: Developer blog by some guy.
+description: Yet another developer blog.
 github_username: giwankim
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
@@ -40,7 +40,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: yargsandy
-    github: giwakim
+    github: giwankim
 
 # Set this to true to get LaTeX math equation support
 use_math: 
